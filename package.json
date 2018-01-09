@@ -1,0 +1,22 @@
+{
+  "name": "requirejs-examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "requirejs": "^2.3.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anoopmd/requirejs-examples.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anoopmd/requirejs-examples/issues"
+  },
+  "homepage": "https://github.com/anoopmd/requirejs-examples#readme"
+}
