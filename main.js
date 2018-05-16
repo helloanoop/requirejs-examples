@@ -3,6 +3,9 @@ requirejs.config({
   paths:{
   },
 });
-require(['calculator/add'], function(add) {
+
+require(['calculator/add', 'calculator/square'], function(add, square) {
   console.log(add(1, 2));
+  console.log("Hello");
+  console.log(square(5));
 });
